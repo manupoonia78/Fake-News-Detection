@@ -1,8 +1,8 @@
-# Fake_News_Detection
+# Fake News Detection
 Fake News Detection from Liar Dataset using different major classifiers for better Accuracy
 
 
-Dataset used
+# Dataset used
 The data source used for this project is LIAR dataset which contains 3 files with .tsv format for test, train and validation. Below is some description about the data files used for this project.
 
 LIAR: A BENCHMARK DATASET FOR FAKE NEWS DETECTION
@@ -48,7 +48,7 @@ The dataset used for this project were in csv format named train.csv, test.csv a
 
 A step by step series of examples that tell you have to get a development env running
 
-Clone The Repo
+# Clone The Repo
 
 The first step would be to clone this repo in a folder in your local machine. To do that you need to run following command in command prompt or in git bash
 $ git clone https://github.com/manupoonia78/Fake-News-Detection.git
@@ -59,7 +59,7 @@ This will copy all the data source file, program files and model into your machi
 After all the files are saved in a folder in your machine. 
 
 
-Run the Python Script 
+# Run the Python Script 
 
 Once you are inside the directory call the prediction.py file, To do this, run below command in anaconda prompt.
 
